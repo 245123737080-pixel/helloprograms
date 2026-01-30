@@ -2,5 +2,5 @@
 int main()
 {
   printf("hello devops from c progrom");
-return 0
+return 0;
 }
